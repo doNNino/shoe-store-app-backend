@@ -1,0 +1,22 @@
+{
+  "name": "shoe-store-app-backend",
+  "version": "1.0.0",
+  "description": "Node express backend for the shoe store app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doNNino/shoe-store-app-backend.git"
+  },
+  "keywords": [
+    "node/express"
+  ],
+  "author": "Nino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doNNino/shoe-store-app-backend/issues"
+  },
+  "homepage": "https://github.com/doNNino/shoe-store-app-backend#readme"
+}
