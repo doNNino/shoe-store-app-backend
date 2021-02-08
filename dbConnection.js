@@ -1,3 +1,4 @@
+// imports
 require('dotenv').config();
 const mongoose = require('mongoose');
 
@@ -22,4 +23,5 @@ const dbConnect = () => {
     throw error;
   }
 };
+// export for DB connection
 module.exports = dbConnect;

@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+// creating new product schema with necesarry fields
 const productSchema = new mongoose.Schema({
   Name: {
     type: String,
@@ -20,7 +20,7 @@ const productSchema = new mongoose.Schema({
     default: ''
   }
 });
-
+// creating new Product model out of product schema
 const Product = mongoose.model('Product', productSchema);
-
+// Exporting Product model
 module.exports = Product;
