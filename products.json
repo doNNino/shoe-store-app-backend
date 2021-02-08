@@ -1,60 +1,60 @@
 {
   "products": [
     {
-      "productId": 1,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "productId": 2,
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 2,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 3,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 4,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 5,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 6,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 7,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     },
     {
       "productId": 8,
-      "productName": "Air Force Max II",
-      "productBrand": "Nike",
-      "productPrice": 17000,
-      "productImg": ""
+      "Name": "Air Force Max II",
+      "Brand": "Nike",
+      "Price": 17000,
+      "ImgSrc": ""
     }
   ]
 }

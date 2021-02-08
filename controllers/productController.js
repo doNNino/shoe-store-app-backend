@@ -1,15 +1,11 @@
-const fs = require('fs');
-
-// reading files with the fs module
-
-const data = fs.readFileSync(`${__dirname}/../products.json`, 'utf8');
-const parsedProductData = JSON.parse(data);
+const Product = require('../models/productModel');
 
 exports.getAllProducts = async (req, res) => {
   try {
+    const products = await Product.find();
     res.json({
       status: 'success',
-      data: parsedProductData
+      data: products
     });
   } catch (err) {
     console.log(err);
